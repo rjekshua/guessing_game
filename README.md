@@ -14,7 +14,7 @@
 1. **Ensure you have Rust installed. If not, install it from ****************[Rust's official website](https://www.rust-lang.org/)****************.**
 2. **Clone this repository:**
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:rjekshua/guessing_game.git
    ```
 3. **Navigate to the project directory:**
    ```sh
